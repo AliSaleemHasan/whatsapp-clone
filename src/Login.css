@@ -1,0 +1,15 @@
+.login {
+  display: grid;
+  place-content: center;
+}
+
+.login__box > button {
+  margin-top: 10px;
+  width: 100%;
+  height: 4vh;
+  border-radius: 2px;
+  background-color: #073862;
+  border-color: rgba(24, 1, 23, 0.7);
+  font-size: 1em;
+  color: #fff;
+}
